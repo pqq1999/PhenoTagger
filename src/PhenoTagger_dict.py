@@ -117,3 +117,4 @@ if __name__ == "__main__":
 
 	phenotagger_tag(args.infolder, para_set, args.outfolder)
 	print('The results are in ', args.outfolder)
+	
